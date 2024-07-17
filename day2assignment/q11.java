@@ -1,4 +1,4 @@
-public class q11 {
+public class q11 {   //wrong logic
     public static void main(String[] args) {
         int N = 5;
         for (int i=1;i<=N;i++) 
