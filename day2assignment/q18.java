@@ -5,7 +5,7 @@ public class q18 {
         System.out.println("Enter the number of rows for diamond pattern: ");
         // n is the number of rows here n=7
         int n = sc.nextInt();
-        int N = (7+1)/2;
+        int N = (n+1)/2;
 
         for (int i = 1; i <= N; i++) {
             for (int k = 1; k <= N-i; k++) {
