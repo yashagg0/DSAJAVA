@@ -1,4 +1,4 @@
- import java.util.Scanner;          // copied from yt
+ import java.util.Scanner;          // copied from youtube
 public class q18 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
