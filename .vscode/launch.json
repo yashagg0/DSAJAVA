@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "q25",
+            "request": "launch",
+            "mainClass": "q25",
+            "projectName": "DSAJAVA_730b89e6"
+        },
+        {
+            "type": "java",
+            "name": "q26",
+            "request": "launch",
+            "mainClass": "q26",
+            "projectName": "DSAJAVA_730b89e6"
+        },
+        {
+            "type": "java",
+            "name": "q24",
+            "request": "launch",
+            "mainClass": "q24",
+            "projectName": "DSAJAVA_730b89e6"
+        },
+        {
+            "type": "java",
+            "name": "q23",
+            "request": "launch",
+            "mainClass": "q23",
+            "projectName": "DSAJAVA_730b89e6"
+        },
+        {
+            "type": "java",
             "name": "q20",
             "request": "launch",
             "mainClass": "q20",
