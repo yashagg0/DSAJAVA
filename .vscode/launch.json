@@ -1,0 +1,147 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "q21",
+            "request": "launch",
+            "mainClass": "q21",
+            "projectName": "DSAJAVA_730b89e6"
+        },
+        {
+            "type": "java",
+            "name": "q18",
+            "request": "launch",
+            "mainClass": "q18",
+            "projectName": "DSAJAVA_730b89e6"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "day2assignment",
+            "request": "launch",
+            "mainClass": "day2assignment",
+            "projectName": "DSAJAVA_730b89e6"
+        },
+        {
+            "type": "java",
+            "name": "q10",
+            "request": "launch",
+            "mainClass": "q10",
+            "projectName": "DSAJAVA_730b89e6"
+        },
+        {
+            "type": "java",
+            "name": "q11",
+            "request": "launch",
+            "mainClass": "q11",
+            "projectName": "DSAJAVA_730b89e6"
+        },
+        {
+            "type": "java",
+            "name": "q12",
+            "request": "launch",
+            "mainClass": "q12",
+            "projectName": "DSAJAVA_730b89e6"
+        },
+        {
+            "type": "java",
+            "name": "q13",
+            "request": "launch",
+            "mainClass": "q13",
+            "projectName": "DSAJAVA_730b89e6"
+        },
+        {
+            "type": "java",
+            "name": "q14",
+            "request": "launch",
+            "mainClass": "q14",
+            "projectName": "DSAJAVA_730b89e6"
+        },
+        {
+            "type": "java",
+            "name": "q15",
+            "request": "launch",
+            "mainClass": "q15",
+            "projectName": "DSAJAVA_730b89e6"
+        },
+        {
+            "type": "java",
+            "name": "q16",
+            "request": "launch",
+            "mainClass": "q16",
+            "projectName": "DSAJAVA_730b89e6"
+        },
+        {
+            "type": "java",
+            "name": "q17",
+            "request": "launch",
+            "mainClass": "q17",
+            "projectName": "DSAJAVA_730b89e6"
+        },
+        {
+            "type": "java",
+            "name": "q2",
+            "request": "launch",
+            "mainClass": "q2",
+            "projectName": "DSAJAVA_730b89e6"
+        },
+        {
+            "type": "java",
+            "name": "q3",
+            "request": "launch",
+            "mainClass": "q3",
+            "projectName": "DSAJAVA_730b89e6"
+        },
+        {
+            "type": "java",
+            "name": "q4",
+            "request": "launch",
+            "mainClass": "q4",
+            "projectName": "DSAJAVA_730b89e6"
+        },
+        {
+            "type": "java",
+            "name": "q5",
+            "request": "launch",
+            "mainClass": "q5",
+            "projectName": "DSAJAVA_730b89e6"
+        },
+        {
+            "type": "java",
+            "name": "q6",
+            "request": "launch",
+            "mainClass": "q6",
+            "projectName": "DSAJAVA_730b89e6"
+        },
+        {
+            "type": "java",
+            "name": "q7",
+            "request": "launch",
+            "mainClass": "q7",
+            "projectName": "DSAJAVA_730b89e6"
+        },
+        {
+            "type": "java",
+            "name": "q8",
+            "request": "launch",
+            "mainClass": "q8",
+            "projectName": "DSAJAVA_730b89e6"
+        },
+        {
+            "type": "java",
+            "name": "q9",
+            "request": "launch",
+            "mainClass": "q9",
+            "projectName": "DSAJAVA_730b89e6"
+        }
+    ]
+}
