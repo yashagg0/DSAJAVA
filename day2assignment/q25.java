@@ -10,9 +10,7 @@ public class q25 {
             if (number <= 25) {
                 System.out.print("  " +number);
                 number++;    
-            }
-            
-    
+            }   
 }
 System.out.println();
 }
