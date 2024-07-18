@@ -1,4 +1,4 @@
-public class q26 {
+public class q26 {                                //q26
     public static void main(String[] args) {
         int N=5;
         for(int i=1; i<=N;i++){
