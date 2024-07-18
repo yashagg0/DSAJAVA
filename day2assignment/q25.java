@@ -1,4 +1,4 @@
-public class q25 {
+public class q25 { 
     public static void main(String[] args) {
         int number =1;
         int N=5;
