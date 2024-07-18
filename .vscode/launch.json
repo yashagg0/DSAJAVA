@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "q32",
+            "request": "launch",
+            "mainClass": "q32",
+            "projectName": "DSAJAVA_730b89e6"
+        },
+        {
+            "type": "java",
+            "name": "q31",
+            "request": "launch",
+            "mainClass": "q31",
+            "projectName": "DSAJAVA_730b89e6"
+        },
+        {
+            "type": "java",
+            "name": "q30",
+            "request": "launch",
+            "mainClass": "q30",
+            "projectName": "DSAJAVA_730b89e6"
+        },
+        {
+            "type": "java",
+            "name": "q29",
+            "request": "launch",
+            "mainClass": "q29",
+            "projectName": "DSAJAVA_730b89e6"
+        },
+        {
+            "type": "java",
+            "name": "q28",
+            "request": "launch",
+            "mainClass": "q28",
+            "projectName": "DSAJAVA_730b89e6"
+        },
+        {
+            "type": "java",
+            "name": "q27",
+            "request": "launch",
+            "mainClass": "q27",
+            "projectName": "DSAJAVA_730b89e6"
+        },
+        {
+            "type": "java",
             "name": "q25",
             "request": "launch",
             "mainClass": "q25",
