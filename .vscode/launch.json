@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "q33",
+            "request": "launch",
+            "mainClass": "q33",
+            "projectName": "DSAJAVA_730b89e6"
+        },
+        {
+            "type": "java",
             "name": "q32",
             "request": "launch",
             "mainClass": "q32",
