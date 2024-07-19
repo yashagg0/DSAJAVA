@@ -1,23 +1,30 @@
-public class q21 {
+public class q21 {                     //copied from youtube
     public static void main(String[] args) {
         int N=5;
         for (int i=1;i<=N;i++) {
             for (int j=1;j<=i;j++) {
                 System.out.print("* ");
-            
         }
-        System.out.println();
-    }  
-        for (int i=1;i<=N;i++) {
-            for (int k=1;k<=(N-i);k++) {
+            for (int j=1;j<=(2*N-3);j++) {
                 System.out.print("  ");
-            }
+        }
             for (int j=1;j<=i;j++) {
                 System.out.print("* ");
-                }
+        }
+             System.out.println();
+        }
+       
+    // }  
+    //     for (int i=1;i<=N;i++) {
+    //         for (int k=1;k<=(N-i);k++) {
+    //             System.out.print("  ");
+    //         }
+    //         for (int j=1;j<=i;j++) {
+    //             System.out.print("* ");
+    //             }
             
-            System.out.println();
+    //         System.out.println();
         }
     }
-}
+
 
