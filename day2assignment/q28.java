@@ -9,7 +9,7 @@ public class q28 {
             System.out.print((i+j-1)+" ");
     }
     for(int j=2; j<=i; j++ ){
-            System.out.print((j)+" ");
+            System.out.print((2*i-j)+" ");
     }
             System.out.println();
 }
