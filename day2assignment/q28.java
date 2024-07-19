@@ -6,10 +6,10 @@ public class q28 {
             System.out.print("  ");
     }
     for(int j=1; j<=i; j++ ){
-            System.out.print(i+" ");
+            System.out.print((i+j-1)+" ");
     }
     for(int j=2; j<=i; j++ ){
-            System.out.print((j-1)+" ");
+            System.out.print((j)+" ");
     }
             System.out.println();
 }
