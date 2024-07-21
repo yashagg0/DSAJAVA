@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "searching",
+            "request": "launch",
+            "mainClass": "searching",
+            "projectName": "DSAJAVA_730b89e6"
+        },
+        {
+            "type": "java",
+            "name": "day5",
+            "request": "launch",
+            "mainClass": "day5",
+            "projectName": "DSAJAVA_730b89e6"
+        },
+        {
+            "type": "java",
+            "name": "day4",
+            "request": "launch",
+            "mainClass": "day4",
+            "projectName": "DSAJAVA_730b89e6"
+        },
+        {
+            "type": "java",
             "name": "q33",
             "request": "launch",
             "mainClass": "q33",
