@@ -1,7 +1,7 @@
-public class q21 {                    
+public class q22 {
     public static void main(String[] args) {
         int N=5;
-        for (int i=1;i<=N;i++) {
+        for (int i=N;i>=1;i--) {
             for (int j=1;j<=i;j++) {
                 System.out.print("* ");
         }
@@ -14,5 +14,5 @@ public class q21 {
              System.out.println();
         }
     }
-}
+}    
 
