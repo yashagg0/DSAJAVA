@@ -58,8 +58,6 @@
 //         }
     
 // }
-
-public class day4{
 //     static void printarr(int[] arr){
 //             for(int i=0;i<arr.length;i++)
 //             System.out.print(arr[i]+" ");
@@ -73,14 +71,40 @@ public class day4{
 //         printarr(arr);
 //     }
 // }
-static void printarr(int[] arr){
-    for(int i:arr)
-    System.out.print(i+" ");
-}
-public static void main(String[] args) {
-    int[] arr = {1,2,3,4,5};
-    printarr(arr);
-    }
-    
-}
 
+// public static void main(String[] args) {
+//     int[] arr = {1,2,3,4,5};
+//     printarr(arr);
+//     }
+// static void printarr(int[] arr){
+//     for(int i:arr)
+//     System.out.print(i+" ");
+// }    
+// }
+
+
+
+//prime number code using functions/methods
+import java.util.Scanner;
+public class day4 {
+    public static void main(String[] args) {
+        
+        Scanner sc = new Scanner(System.in);
+        int n= sc.nextInt();
+        boolean ans = isprime(n);
+        System.out.println(ans);
+    }
+        static boolean isprime(int n){
+            if (n<=1) {
+                return false;
+            }
+            int c=2;
+            while (c*c <= n){
+                 if (n%c ==0){
+                    return false;
+                 }
+                 c++;
+            }
+            return true;
+        }
+}
