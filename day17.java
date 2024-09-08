@@ -74,8 +74,9 @@ public class day17 {   //FIBONACCI USING RECURSION
         // cointoss(num, ans);
         // System.out.println(countCoinToss(num));
         // System.out.println(countSubSequence(" "));
+        // validParanthesis(3, " ", 0, 0);
 
-
+        permute(" ", "abc");
     }
 
 //     static void cointoss(int num, String ans){
@@ -113,12 +114,31 @@ public class day17 {   //FIBONACCI USING RECURSION
 
 // GENERATE VALID PARENTHESIS
 
-    // static void validParanthesis(int num1, String ans){
-    //     if (num1 == 0){
-    //         System.out.println(ans);
-    //         return;
-    //     }
+//     static void validParanthesis(int num1, String ans, int l, int r){
+//         if (l == num1 && r == num1){
+//             System.out.println(ans);
+//             return;
+//         }
+//         if (l < num1){
+//             validParanthesis(num1, ans + "{", l+1, r);
+//         }
+//         if (r < l){
+//             validParanthesis(num1, ans + "}", l, r+1);
+//         }
+//     }
 
-    // }
+
+// PERMUTATIONS AND COMBINATIONS
+        static void permute(String ans , String ques){
+            if (ques.length() == 0){
+                System.out.println(ans);
+                return;
+            }
+            for (int i= 0; i<ques.length(); i++){
+                String s1 = ques.substring(0, i);
+                String s2 = ques.substring(i+1);
+                permute(ans + ques.charAt(i), s1+s2);
+            }
+        }
 
 }
