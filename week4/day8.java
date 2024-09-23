@@ -1,3 +1,4 @@
+package week4;
 public class day8 {   //NEXT GREATEST ELEMENT
     // static int[] NGER(int[] arr){
     //     int maxelement = 0;

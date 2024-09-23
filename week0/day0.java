@@ -1,3 +1,4 @@
+package week0;
 // program to write hello world
 
 class day0{

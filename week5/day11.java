@@ -1,3 +1,4 @@
+package week5;
 public class day11{   // DAY 11 3 QUESTIONS ON LEETCODE
     //NOW THIS IS CLASS 12 SUFFIX AND PREFIX SUM AND STRINGS
     public static void main(String[] args) {

@@ -1,3 +1,4 @@
+package week4;
 public class day9 {   //TIME COMPLEXITY AND SPACE COMPLEXITY
     public static void main(String[] args) {
     //     int n=10, sum=0 ,a=0;

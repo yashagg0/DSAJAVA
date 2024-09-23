@@ -1,3 +1,4 @@
+package week5;
 // public class day10 {  //BINARY SEARCH
 //     public static void main(String[] args) {
         // int low = 1;

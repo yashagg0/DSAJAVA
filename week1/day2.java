@@ -1,3 +1,4 @@
+package week1;
 //if else statements for loop nested for loops and pattern printing 
 
 import java.util.Scanner;

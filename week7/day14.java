@@ -1,3 +1,4 @@
+package week7;
 public class day14{     //STRING BUILDER
     public static void main(String[] args) {
         StringBuilder sb = new StringBuilder(10);

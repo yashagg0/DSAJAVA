@@ -1,3 +1,4 @@
+package week3;
 public class day6 {                                             //binary search
 //     static int binarysearch(int arr[], int num){
 //         int low =0, high = arr.length-1;

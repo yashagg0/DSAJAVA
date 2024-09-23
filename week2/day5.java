@@ -1,3 +1,4 @@
+package week2;
 public class day5 {
 //     public static int sumarray(int[] arr, int a, int b) {
 //         if (a>b || a<0 || b<0 || b>=arr.length)

@@ -1,3 +1,4 @@
+package week6;
 public class day12 {
 
 //     static String reverse(String s1){
