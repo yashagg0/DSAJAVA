@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "RatInAMaze",
+            "request": "launch",
+            "mainClass": "week11.RatInAMaze",
+            "projectName": "DSAJAVA_730b89e6"
+        },
+        {
+            "type": "java",
             "name": "day7",
             "request": "launch",
             "mainClass": "day7",

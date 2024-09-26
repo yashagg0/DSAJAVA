@@ -1,3 +1,4 @@
+package week8;
 public class day16 {  //RECURSION 
     // public static void main(String[] args) {
     //     System.out.println(fact(6));
