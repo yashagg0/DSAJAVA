@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ll_Util",
+            "request": "launch",
+            "mainClass": "week12.ll_Util",
+            "projectName": "DSAJAVA_730b89e6"
+        },
+        {
+            "type": "java",
             "name": "RatInAMaze",
             "request": "launch",
             "mainClass": "week11.RatInAMaze",
