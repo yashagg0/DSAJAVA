@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Stk",
+            "request": "launch",
+            "mainClass": "week13.Stk",
+            "projectName": "DSAJAVA_730b89e6"
+        },
+        {
+            "type": "java",
+            "name": "NQueens",
+            "request": "launch",
+            "mainClass": "week11.NQueens",
+            "projectName": "DSAJAVA_730b89e6"
+        },
+        {
+            "type": "java",
             "name": "ll_Util",
             "request": "launch",
             "mainClass": "week12.ll_Util",
