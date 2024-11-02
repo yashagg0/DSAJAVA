@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Implementation",
+            "request": "launch",
+            "mainClass": "week15.Implementation",
+            "projectName": "DSAJAVA_730b89e6"
+        },
+        {
+            "type": "java",
+            "name": "implement",
+            "request": "launch",
+            "mainClass": "week14.implement",
+            "projectName": "DSAJAVA_730b89e6"
+        },
+        {
+            "type": "java",
             "name": "PracticeSTK",
             "request": "launch",
             "mainClass": "week14.PracticeSTK",
