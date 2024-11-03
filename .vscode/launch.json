@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "BinarySearchTree",
+            "request": "launch",
+            "mainClass": "week15.BinarySearchTree",
+            "projectName": "DSAJAVA_730b89e6"
+        },
+        {
+            "type": "java",
             "name": "Implementation",
             "request": "launch",
             "mainClass": "week15.Implementation",
