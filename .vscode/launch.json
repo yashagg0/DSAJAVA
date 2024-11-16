@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Hashmap",
+            "request": "launch",
+            "mainClass": "week17.Hashmap",
+            "projectName": "DSAJAVA_730b89e6"
+        },
+        {
+            "type": "java",
+            "name": "Hashset",
+            "request": "launch",
+            "mainClass": "week17.Hashset",
+            "projectName": "DSAJAVA_730b89e6"
+        },
+        {
+            "type": "java",
             "name": "Implementation",
             "request": "launch",
             "mainClass": "week16.Implementation",
