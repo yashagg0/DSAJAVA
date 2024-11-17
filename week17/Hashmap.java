@@ -28,9 +28,9 @@ public class Hashmap {
     lp.put(2, 10);
     lp.put(-5, -50);
 
-    for(Map.Entry<Integer, Integer> m : hp.entrySet()){
-        System.out.print(m.getKey()+ " " +m.getValue());
-    }
+    // for(Map.Entry<Integer, Integer> m : hp.entrySet()){
+    //     System.out.print(m.getKey()+ " " +m.getValue());
+    // }
 
 
     System.out.println(hp);
