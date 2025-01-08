@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "KnapSack",
+            "request": "launch",
+            "mainClass": "week22.KnapSack",
+            "projectName": "DSAJAVA_730b89e6"
+        },
+        {
+            "type": "java",
             "name": "Count",
             "request": "launch",
             "mainClass": "week20.Count",
